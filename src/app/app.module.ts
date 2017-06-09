@@ -22,8 +22,8 @@ import { BootstrapModalModule } from 'angular2-modal/plugins/bootstrap';
     BootstrapModalModule,
    
      AgmCoreModule.forRoot({
-      apiKey: '	AIzaSyDw-aB0lcfehf3I9QCZpJYMkfgSZRo_dMA',
-      libraries: ["places","geometry"]
+      apiKey: 
+      libraries: 
     })
     
   ],
